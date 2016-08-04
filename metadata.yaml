@@ -1,0 +1,38 @@
+_repo: Alice-of-Old-Vincennes_4097
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thompson, Maurice
+    aliases:
+    - Thompson, J. Maurice (James Maurice)
+    - Thompson, James Maurice
+    birthdate: 1844
+    deathdate: 1901
+    gutenberg_agent_id: '1388'
+    url: http://www.gutenberg.org/2009/agents/1388
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Thompson
+description: '"This novel begins at the close of the Revolutionary War and describes
+  much of the early history of old Vincennes. It includes colorful, sometimes romantic
+  tales of the people in Vincennes, the historic march of George Rogers Clark and
+  his "Big Knives" and their successful attack on the British at Fort Sackville in
+  February of 1779"--Publisher description.'
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indiana -- History -- Revolution, 1775-1783 -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'War stories'
+- !lcsh 'Vincennes (Ind.) -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: Alice of Old Vincennes
+url: http://www.gutenberg.org/ebooks/4097
